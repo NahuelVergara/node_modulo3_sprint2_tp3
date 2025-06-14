@@ -1,1 +1,2 @@
-# node_modulo3_sprint2_tp3
+# Modulo 3 - Sprint 2 - Practico 3
+# Vergara Facundo
